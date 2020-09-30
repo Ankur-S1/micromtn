@@ -1,4 +1,4 @@
-Logr
+Logr - Cool Flask project on Python!
 ====
  - - -
 
